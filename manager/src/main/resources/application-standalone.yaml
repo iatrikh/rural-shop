@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: manager
+rsh:
+  services:
+    catalog:
+      uri: http://localhost:8081

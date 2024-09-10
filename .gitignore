@@ -1,0 +1,9 @@
+catalog/mvnw
+manager/mvnw.cmd
+.vscode/settings.json
+catalog/mvnw.cmd
+catalog/HELP.md
+catalog/.mvn/wrapper/maven-wrapper.properties
+manager/mvnw
+manager/HELP.md
+manager/.mvn/wrapper/maven-wrapper.properties
